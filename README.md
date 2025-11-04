@@ -104,5 +104,6 @@ Example `output.json` snippet:
 Contributions and bug reports welcome. Please open an issue or a pull request in the repository.
 
 ## License
+This project is licensed under the MIT License — see the `LICENSE` file in this repository for the full text.
 
-This repository does not include an explicit license file.
+Copyright (c) 2025 Rushikesh Purohit
